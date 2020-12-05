@@ -20,7 +20,7 @@ if (weather < 70){
 
 let string = 'William';
 
-if string === 'william' false){
+if string === 'william' (false){
     console.log('if statements and conditionals are powerful!');
 }
 
